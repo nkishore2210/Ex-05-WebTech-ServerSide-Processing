@@ -1,4 +1,5 @@
 Design a Website for Server Side Processing
+
 AIM:
 To design a website to perform mathematical calculations in server side.
 
@@ -63,6 +64,7 @@ Area:
 Developed by Kishore.N 22008365
 
 OUTPUT:
+
 ![image](https://user-images.githubusercontent.com/118707090/215123217-a4a40c6b-e267-4571-b3d5-19d96d806dd0.png)
 
 
